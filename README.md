@@ -23,3 +23,8 @@ Apache Dubbo (incubating) |ˈdʌbəʊ| 是一款高性能、轻量级的开源Ja
 
 ![dubbo](http://dubbo.apache.org/img/architecture.png)
 
+
+
+- 服务提供者: pnunu-dubbo-provider
+
+- 消费者: pnunu-dubbo-consumer
