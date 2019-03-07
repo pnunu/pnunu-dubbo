@@ -17,6 +17,11 @@
             <artifactId>pnunu-dubbo-api</artifactId>
             <version>1.0</version>
         </dependency>
+        <!-- springboot web starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
